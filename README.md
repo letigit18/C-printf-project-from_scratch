@@ -7,8 +7,7 @@ Team project on printf by Mersi & Esther:
 Write a function that produces output according to a format.                        
                                                                                     
                                                                                     
-1. Education is when you read the fine print. Experience is what you get if you don'
-t                                                                                   
+1. Education is when you read the fine print. Experience is what you get if you don't                                                                                   
 Handle the following conversion specifiers:
 
 2. With a face like mine, I do better in print                                      
@@ -32,9 +31,8 @@ Handle the following flag characters for non-custom conversion specifiers:
                                                                                     
 8. Sarcasm is lost in print                                                         
 Handle the following length modifiers for non-custom conversion specifiers:         
-                                                                                    
-l                                                                                   
-h                                                                                   
+                                                                                   
+                                                                                   
 Conversion specifiers to handle: d, i, u, o, x, X                                   
                                                                                     
 9. Print some money and give it to us for the rain forests                          
@@ -58,7 +56,6 @@ Handle the following custom conversion specifier:
 ring                                                                                
 Handle the following custom conversion specifier:                                   
                                                                                     
-15. *                                                                               
-All the above options work well together. 
+15. All the above options work well together. 
 
 
