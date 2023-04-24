@@ -3,8 +3,9 @@
 void print_buffer(char buffer[], int *buff_ind);
 
 /**
+ * function to return printed chars
  * _printf - Printf function
- * @format: format.
+ * @format: format .
  * Return: Printed chars.
  */
 int _printf(const char *format, ...)

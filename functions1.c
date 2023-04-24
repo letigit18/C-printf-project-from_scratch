@@ -1,9 +1,9 @@
 #include "main.h"
 
-/************************* PRINT UNSIGNED NUMBER *************************/
+/******************** PRINT UNSIGNED NUMBER *********************/
 /**
- * print_unsigned - Prints an unsigned number
- * @types: List a of arguments
+ * print_unsigned - Print an unsigned number
+ * @types: List all arguments
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags
  * @width: get width
